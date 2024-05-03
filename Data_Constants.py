@@ -1,24 +1,40 @@
 import os
 
-base_path = '/Users/noemi/ood-generalization'
+base_path = 'C:\\Nina\\e-root\\data'
 
 #-------------------------------------------
+# image_paths = {
+#     'MIMIC': r'/Volumes/Passport-2TB 2/data/mimic/physionet.org/files/mimic-cxr-jpg/2.0.0/files', # MIMIC-CXR
+#     'CXP': '/Users/noemi/ood-generalization/data/CheXpert', # CheXpert
+#     'NIH': '/Users/noemi/ood-generalization/data/chestxray8', # ChestX-ray8
+#     'PAD': '/Users/noemi/ood-generalization/data/PadChest/images-224', # PadChest
+# }
+
+# meta_paths = {
+#     'MIMIC': r'/Volumes/Passport-2TB 2/data/mimic/physionet.org/files/mimic-cxr-jpg/2.0.0', # MIMIC-CXR
+#     'CXP': '/Users/noemi/ood-generalization/data/CheXpert', # CheXpert
+#     'NIH': '/Users/noemi/ood-generalization/data/chestxray8', # ChestX-ray8
+#     'PAD': '/Users/noemi/ood-generalization/data/PadChest', # PadChest
+# }
+
+# cache_dir = '/Users/noemi/ood-generalization/data/cache'
+
+
 image_paths = {
-    'MIMIC': r'/Volumes/Passport-2TB 2/data/mimic/physionet.org/files/mimic-cxr-jpg/2.0.0/files', # MIMIC-CXR
-    'CXP': '/Users/noemi/ood-generalization/data/CheXpert', # CheXpert
-    'NIH': '/Users/noemi/ood-generalization/data/chestxray8', # ChestX-ray8
-    'PAD': '/Users/noemi/ood-generalization/data/PadChest/images-224', # PadChest
+    'MIMIC': 'C:\\Nina\\e-root\\data\\mimic\\physionet.org\\files\\mimic-cxr-jpg\\2.0.0\\files', # MIMIC-CXR
+    'CXP': 'C:\\Nina\\e-root\\data\\CheXpert', # CheXpert
+    'NIH': 'C:\\Nina\\e-root\\data\\chestxray8', # ChestX-ray8
+    'PAD': 'C:\\Nina\\e-root\\data\\PadChest\\images-224', # PadChest
 }
 
 meta_paths = {
-    'MIMIC': r'/Volumes/Passport-2TB 2/data/mimic/physionet.org/files/mimic-cxr-jpg/2.0.0', # MIMIC-CXR
-    'CXP': '/Users/noemi/ood-generalization/data/CheXpert', # CheXpert
-    'NIH': '/Users/noemi/ood-generalization/data/chestxray8', # ChestX-ray8
-    'PAD': '/Users/noemi/ood-generalization/data/PadChest', # PadChest
+    'MIMIC': 'C:\\Nina\\e-root\\data\\mimic\\physionet.org\\files\\mimic-cxr-jpg\\2.0.0', # MIMIC-CXR
+    'CXP': 'C:\\Nina\\e-root\\data\\CheXpert', # CheXpert
+    'NIH': 'C:\\Nina\\e-root\\data\\chestxray8', # ChestX-ray8
+    'PAD': 'C:\\Nina\\e-root\\data\\PadChest', # PadChest
 }
 
-cache_dir = '/Users/noemi/ood-generalization/data/cache'
-
+cache_dir = 'C:\\Nina\\e-root\\data\\cache'
 #-------------------------------------------
 
 df_paths = {
