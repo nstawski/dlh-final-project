@@ -1,0 +1,16 @@
+python,3.6.13
+pip,21.2.2
+jupyter_core,4.8.1
+
+imbalanced-learn,0.8.1
+jupyter,1.0.0
+matplotlib,2.2.2
+numpy,1.19.5
+pandas,1.1.0
+pillow,8.4.0
+scikit-learn,0.24.2
+scipy,1.5.1
+seaborn,0.11.2
+
+torch,1.8.1+cu111
+torchvision,0.9.1
