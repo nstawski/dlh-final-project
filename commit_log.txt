@@ -1,0 +1,205 @@
+commit 70c726fa5d136a28d9927b0ff5265af62daf0315
+Author: Nina Stawski <me@ninastawski.com>
+Date:   Sun May 5 15:36:21 2024 -0700
+
+    Update Nina_Stawski_final_project_stats_alt.ipynb
+
+commit 9074203da0c7de80e48a6a61351849c477b7d782
+Author: Nina Stawski <me@ninastawski.com>
+Date:   Sun May 5 15:13:09 2024 -0700
+
+    Training progress
+
+commit 4d77a3c4532e0964296e21a8810d7bdfacee0478
+Author: Nina Stawski <me@ninastawski.com>
+Date:   Sun May 5 13:55:33 2024 -0700
+
+    Added env packages csv for visualization
+
+commit f3802d38c8a683810df78926415b810647d61508
+Author: Nina Stawski <me@ninastawski.com>
+Date:   Sun May 5 13:40:24 2024 -0700
+
+    Env + notebooks
+
+commit dbaf4e06acf4efdfbcc844901c69399a3ec638fc
+Merge: ca0b9a5 81d9ab3
+Author: Nina Stawski <me@ninastawski.com>
+Date:   Sun May 5 13:13:40 2024 -0700
+
+    Merge branch 'main' of https://github.com/nstawski/dlh-final-project
+
+commit ca0b9a52b9b188242c4de3d3256cabf765b58b0b
+Author: Nina Stawski <me@ninastawski.com>
+Date:   Sun May 5 13:13:36 2024 -0700
+
+    Balanced training checkpoint
+
+commit 81d9ab3ca8c52bc3306b3db7a96850952a42f55e
+Author: Nina Stawski <me@ninastawski.com>
+Date:   Sun May 5 13:10:41 2024 -0700
+
+    Images in a separate img folder
+
+commit 64ed355db3a3e14ef9a964679eaae77e407dd4aa
+Author: Nina Stawski <me@ninastawski.com>
+Date:   Sun May 5 13:11:31 2024 -0700
+
+    Balanced training checkpoint
+
+commit ec165fc97e26d89643ca36d7c59cddb1624c60f1
+Merge: 4a01b79 6d09a9d
+Author: Nina Stawski <me@ninastawski.com>
+Date:   Sun May 5 12:16:39 2024 -0700
+
+    Merge branch 'main' of https://github.com/nstawski/dlh-final-project
+
+commit 4a01b79336f355fd093171c1667d7ea57fb757db
+Author: Nina Stawski <me@ninastawski.com>
+Date:   Sun May 5 12:16:29 2024 -0700
+
+    Moved stats
+
+commit 6d09a9d1e94fb3c5eb4536d9543fa56ef222c57d
+Author: Nina Stawski <me@ninastawski.com>
+Date:   Sun May 5 12:03:59 2024 -0700
+
+    Added Figure 2 from the article
+
+commit 6538f1140d8e1e9bf9ccb341bff97cc44a0d2929
+Author: Nina Stawski <me@ninastawski.com>
+Date:   Sun May 5 11:42:02 2024 -0700
+
+    Duplicating the notebook for parallel run
+
+commit 75b404cffb7c7bd540cdd09f05909e82c99ef508
+Author: Stan Klimoff <sklimoff+github@griddynamics.com>
+Date:   Sun May 5 01:05:35 2024 -0700
+
+    Update Nina_Stawski_final_project_stats.ipynb
+
+commit f7aa4241938139d77038488119e03214fcf478fc
+Author: Stan Klimoff <sklimoff+github@griddynamics.com>
+Date:   Sat May 4 23:28:55 2024 -0700
+
+    Update Nina_Stawski_final_project_stats.ipynb
+
+commit 064944e41e28f10c0b779400323ad594adb83f84
+Author: Stan Klimoff <sklimoff+github@griddynamics.com>
+Date:   Sat May 4 23:08:46 2024 -0700
+
+    Update Nina_Stawski_final_project_stats.ipynb
+
+commit 71847a154130d83ae01e55ebaf1a067accebb896
+Author: Stan Klimoff <sklimoff+github@griddynamics.com>
+Date:   Sat May 4 18:40:31 2024 -0700
+
+    natrenirovalos'
+
+commit 33c237950266b7438fa6f17112cd0d76c65e4a10
+Author: Stan Klimoff <sklimoff+github@griddynamics.com>
+Date:   Sat May 4 15:49:38 2024 -0700
+
+    Progress checkpoint
+
+commit 3c812e02d97755cded365796fabc2dbe51d1f9a2
+Author: Stan Klimoff <sklimoff+github@griddynamics.com>
+Date:   Sat May 4 13:10:11 2024 -0700
+
+    Checkpoint
+
+commit 082a98d58c5d7cb38e40bb596a63ba806bd50008
+Author: Stan Klimoff <sklimoff+github@griddynamics.com>
+Date:   Sat May 4 11:58:33 2024 -0700
+
+    more training, better stats code
+
+commit d90f24d99509cbc4bc1f1e196eaab865c3fc872e
+Author: Stan Klimoff <sklimoff+github@griddynamics.com>
+Date:   Sat May 4 11:12:42 2024 -0700
+
+    Update Nina_Stawski_project_draft (2).ipynb
+
+commit 6ffd9fa72fcfcb5fd5eca43f17b74c5a67ee8722
+Author: Nina Stawski <me@ninastawski.com>
+Date:   Sat May 4 11:11:49 2024 -0700
+
+    Duplicated the notebook to work on stats
+
+commit 4bbdbe1d959074e8bd8944422d0ac1120c5af125
+Author: Stan Klimoff <sklimoff+github@griddynamics.com>
+Date:   Sat May 4 11:07:27 2024 -0700
+
+    Full CXP model
+
+commit 8ca9258b561ac94677be4c9d5e532d2059b13db1
+Author: Stan Klimoff <sklimoff+github@griddynamics.com>
+Date:   Sat May 4 00:19:08 2024 -0700
+
+    More training, updated stats
+
+commit db17a3f6a676775cca1c9fd25089ae72708a41e5
+Author: Stan Klimoff <sklimoff+github@griddynamics.com>
+Date:   Fri May 3 21:55:28 2024 -0700
+
+    Model load
+
+commit 3c503167be68672d9d9b6d28a409ec5da68ebec0
+Author: Stan Klimoff <sklimoff+github@griddynamics.com>
+Date:   Fri May 3 21:49:57 2024 -0700
+
+    Updated notebook, some models saved
+
+commit aa3ede0ad075cdc76afb00bb488980cdc85741d3
+Author: Stan Klimoff <sklimoff+github@griddynamics.com>
+Date:   Fri May 3 00:13:10 2024 -0700
+
+    Smaller dataset
+
+commit 476571403cd8d1e97a447209d53d348e8f946272
+Author: Stan Klimoff <sklimoff+github@griddynamics.com>
+Date:   Thu May 2 23:59:10 2024 -0700
+
+    Piddling
+
+commit 224b1ad2caa063c3dd29571aa7c09bd86b61781e
+Author: Nina Stawski <me@ninastawski.com>
+Date:   Thu May 2 22:57:14 2024 -0700
+
+    Requirements added
+
+commit 56bf1375f6aee3794aabd03b619a1a15f38ebcd7
+Author: Stan Klimoff <sklimoff+github@griddynamics.com>
+Date:   Thu May 2 21:38:21 2024 -0700
+
+    CUDA support
+
+commit 18fac42952ee0eb19d2b55c4fae86f0334c025ed
+Author: Nina Stawski <me@ninastawski.com>
+Date:   Mon Apr 29 22:33:40 2024 -0700
+
+    updated notebook
+
+commit e4e0cc8d1cb78d69d7f83eeac7c5b8ce7a2521f6
+Author: Nina Stawski <me@ninastawski.com>
+Date:   Mon Apr 15 22:39:51 2024 -0700
+
+    Training finally finished
+
+commit d56bd9ecac11c61adb6b6e197c7c791a8bd86048
+Author: Nina Stawski <me@ninastawski.com>
+Date:   Sun Apr 14 16:34:03 2024 -0700
+
+    Updated notebook
+
+commit 59801cb8829d13de03b553551756686367846363
+Author: Nina Stawski <me@ninastawski.com>
+Date:   Sun Apr 14 09:38:50 2024 -0700
+
+    Project draft
+
+commit dd3529825de71bc155ecbfe7377c51971d88701c
+Author: Nina Stawski <me@ninastawski.com>
+Date:   Sun Apr 14 04:36:05 2024 -0700
+
+    Initial commit
