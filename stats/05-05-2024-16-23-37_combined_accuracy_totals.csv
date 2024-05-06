@@ -1,0 +1,100 @@
+Label,Accuracy,source
+No Finding,73.92%,mimic
+Atelectasis,77.84%,mimic
+Cardiomegaly,82.30%,mimic
+Effusion,77.84%,mimic
+Pneumonia,93.92%,mimic
+Pneumothorax,96.08%,mimic
+Consolidation,95.14%,mimic
+Edema,89.59%,mimic
+Any,59.19%,mimic
+No Finding,65.24%,pad
+Atelectasis,94.82%,pad
+Cardiomegaly,89.94%,pad
+Effusion,92.99%,pad
+Pneumonia,93.90%,pad
+Pneumothorax,100.00%,pad
+Consolidation,99.09%,pad
+Edema,99.09%,pad
+Any,76.83%,pad
+No Finding,90.48%,cxp
+Atelectasis,15.40%,cxp
+Cardiomegaly,66.98%,cxp
+Effusion,42.86%,cxp
+Pneumonia,96.98%,cxp
+Pneumothorax,20.16%,cxp
+Consolidation,6.83%,cxp
+Edema,25.08%,cxp
+Any,70.32%,cxp
+No Finding,58.90%,nih
+Atelectasis,90.14%,nih
+Cardiomegaly,97.53%,nih
+Effusion,86.30%,nih
+Pneumonia,99.18%,nih
+Pneumothorax,98.36%,nih
+Consolidation,93.42%,nih
+Edema,97.53%,nih
+Any,70.96%,nih
+No Finding,90.16%,cxp+nih
+Atelectasis,83.17%,cxp+nih
+Cardiomegaly,87.46%,cxp+nih
+Effusion,66.35%,cxp+nih
+Pneumonia,98.10%,cxp+nih
+Pneumothorax,91.27%,cxp+nih
+Consolidation,93.02%,cxp+nih
+Edema,75.71%,cxp+nih
+Any,58.57%,cxp+nih
+No Finding,90.95%,cxp+pad
+Atelectasis,84.60%,cxp+pad
+Cardiomegaly,88.25%,cxp+pad
+Effusion,66.98%,cxp+pad
+Pneumonia,98.10%,cxp+pad
+Pneumothorax,91.27%,cxp+pad
+Consolidation,93.17%,cxp+pad
+Edema,77.62%,cxp+pad
+Any,53.97%,cxp+pad
+No Finding,59.73%,nih+pad
+Atelectasis,90.68%,nih+pad
+Cardiomegaly,97.53%,nih+pad
+Effusion,86.30%,nih+pad
+Pneumonia,99.45%,nih+pad
+Pneumothorax,98.36%,nih+pad
+Consolidation,93.42%,nih+pad
+Edema,97.53%,nih+pad
+Any,71.23%,nih+pad
+No Finding,74.05%,mimic+pad
+Atelectasis,78.11%,mimic+pad
+Cardiomegaly,83.11%,mimic+pad
+Effusion,80.81%,mimic+pad
+Pneumonia,94.32%,mimic+pad
+Pneumothorax,96.08%,mimic+pad
+Consolidation,95.14%,mimic+pad
+Edema,88.38%,mimic+pad
+Any,59.05%,mimic+pad
+No Finding,75.00%,mimic+nih
+Atelectasis,76.08%,mimic+nih
+Cardiomegaly,82.84%,mimic+nih
+Effusion,79.86%,mimic+nih
+Pneumonia,93.38%,mimic+nih
+Pneumothorax,96.08%,mimic+nih
+Consolidation,95.14%,mimic+nih
+Edema,90.00%,mimic+nih
+Any,57.97%,mimic+nih
+No Finding,74.73%,mimic+cxp
+Atelectasis,77.03%,mimic+cxp
+Cardiomegaly,82.30%,mimic+cxp
+Effusion,81.08%,mimic+cxp
+Pneumonia,93.65%,mimic+cxp
+Pneumothorax,96.08%,mimic+cxp
+Consolidation,95.14%,mimic+cxp
+Edema,89.86%,mimic+cxp
+Any,58.38%,mimic+cxp
+No Finding,76.54%,cxp+mimic+nih+pad
+Atelectasis,84.92%,cxp+mimic+nih+pad
+Cardiomegaly,88.22%,cxp+mimic+nih+pad
+Effusion,79.69%,cxp+mimic+nih+pad
+Pneumonia,96.27%,cxp+mimic+nih+pad
+Pneumothorax,95.64%,cxp+mimic+nih+pad
+Consolidation,94.91%,cxp+mimic+nih+pad
+Edema,88.90%,cxp+mimic+nih+pad
+Any,61.61%,cxp+mimic+nih+pad
